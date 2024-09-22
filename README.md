@@ -1,4 +1,4 @@
-﻿﻿# 前言
+﻿# 前言
 
 &emsp;&emsp;项目流式管控可视化平台，是一个智能化管控系统，后端使用了SpringBoot框架、MySQL数据库、Flowable工作流，前端使用了Vue、Echarts、WebSocket等技术。系统实现了项目管理、任务管理、任务审批、成本数据预测、AI聊天、以及生成甘特图等功能。
 
