@@ -1,4 +1,4 @@
-﻿﻿## 一、关于项目流式管控平台
+﻿## 一、关于项目流式管控平台
 
 &emsp;&emsp;项目流式管控平台，是一个智能化管控系统，后端使用了SpringClound  Alibaba、MySQL数据库、Flowable工作流，前端使用了Vue、Echarts、WebSocket等技术。系统实现了项目管理、任务管理、任务审批、成本数据预测、AI聊天等功能。
 
@@ -6,7 +6,7 @@
 
 ### 1.架构图
 
-<img src="https://haipeng-lin.oss-cn-shenzhen.aliyuncs.com/202409292143870.png" alt="项目流式管控平台架构图" style="zoom: 25%;" />
+<img src="https://haipeng-lin.oss-cn-shenzhen.aliyuncs.com/202409292143870.png" alt="项目流式管控平台架构图" style="zoom: 15%;" />
 
 ### 2.模块
 
