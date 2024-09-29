@@ -1,14 +1,20 @@
-﻿# 前言
+﻿﻿## 一、关于项目流式管控平台
 
-&emsp;&emsp;项目流式管控可视化平台，是一个智能化管控系统，后端使用了SpringBoot框架、MySQL数据库、Flowable工作流，前端使用了Vue、Echarts、WebSocket等技术。系统实现了项目管理、任务管理、任务审批、成本数据预测、AI聊天、以及生成甘特图等功能。
+&emsp;&emsp;项目流式管控平台，是一个智能化管控系统，后端使用了SpringClound  Alibaba、MySQL数据库、Flowable工作流，前端使用了Vue、Echarts、WebSocket等技术。系统实现了项目管理、任务管理、任务审批、成本数据预测、AI聊天等功能。
 
-# 模块
+## 二、系统架构及模块功能
+
+### 1.架构图
+
+<img src="https://haipeng-lin.oss-cn-shenzhen.aliyuncs.com/202409292143870.png" alt="项目流式管控平台架构图" style="zoom: 25%;" />
+
+### 2.模块
 
 &emsp;&emsp;项目流式管控可视化平台分为五大模块：认证模块、项目模块、流程模块、智能模块、可视化模块，
 
 &emsp;&emsp;其中核心模块为**项目模块、流程模块、以及智能模块**
 
-# 功能
+### 3.功能
 
 - **认证模块：** 登录认证、权限认证
 - **项目模块：**
